@@ -77,7 +77,7 @@ int LaunchShell(std::vector<std::string>& args)
     }
     else if (pid < 0)
     {
-        continue;
+        // continue;
     } 
     else 
     {
