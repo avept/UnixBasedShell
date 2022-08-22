@@ -7,6 +7,7 @@
 #include <unistd.h>
 #include <functional>
 #include <string>
+#include <sys/wait.h>
 
 namespace 
 {
